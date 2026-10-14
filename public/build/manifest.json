@@ -1,0 +1,88 @@
+{
+  "_jsx-runtime-DMr1V1Lp.js": {
+    "file": "assets/jsx-runtime-DMr1V1Lp.js",
+    "name": "jsx-runtime"
+  },
+  "_menu-B20Blfxv.js": {
+    "file": "assets/menu-B20Blfxv.js",
+    "name": "menu",
+    "imports": [
+      "_package-FHRpDTYj.js"
+    ]
+  },
+  "_package-FHRpDTYj.js": {
+    "file": "assets/package-FHRpDTYj.js",
+    "name": "package",
+    "imports": [
+      "_jsx-runtime-DMr1V1Lp.js"
+    ]
+  },
+  "_triangle-alert-uqsHqV0G.js": {
+    "file": "assets/triangle-alert-uqsHqV0G.js",
+    "name": "triangle-alert",
+    "imports": [
+      "_package-FHRpDTYj.js"
+    ]
+  },
+  "_x-CqKj8Bdu.js": {
+    "file": "assets/x-CqKj8Bdu.js",
+    "name": "x",
+    "imports": [
+      "_package-FHRpDTYj.js"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-ClTPgsCG.css",
+    "name": "app",
+    "names": [
+      "app.css"
+    ],
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-BEyuwiQK.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-DMr1V1Lp.js",
+      "_package-FHRpDTYj.js",
+      "_menu-B20Blfxv.js",
+      "_x-CqKj8Bdu.js"
+    ]
+  },
+  "resources/js/auth.jsx": {
+    "file": "assets/auth-Bn4HcjzU.js",
+    "name": "auth",
+    "src": "resources/js/auth.jsx",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-DMr1V1Lp.js"
+    ]
+  },
+  "resources/js/dashboard.jsx": {
+    "file": "assets/dashboard-DGoQ60BF.js",
+    "name": "dashboard",
+    "src": "resources/js/dashboard.jsx",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-DMr1V1Lp.js",
+      "_package-FHRpDTYj.js",
+      "_triangle-alert-uqsHqV0G.js",
+      "_menu-B20Blfxv.js"
+    ]
+  },
+  "resources/js/products.jsx": {
+    "file": "assets/products-D3Cz-CJK.js",
+    "name": "products",
+    "src": "resources/js/products.jsx",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-DMr1V1Lp.js",
+      "_package-FHRpDTYj.js",
+      "_triangle-alert-uqsHqV0G.js",
+      "_x-CqKj8Bdu.js"
+    ]
+  }
+}
